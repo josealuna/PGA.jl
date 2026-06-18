@@ -1,0 +1,13 @@
+name = "PGA"
+uuid = "98473e3c-f6c7-482c-9f3f-bc732f1355ab"
+authors = ["Jose A Luna <tsukisan@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.12"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "6229e7d696cfd55e5ae0be47b5a6bfda7c1b3b47"
+
+[[deps.PGA]]
+path = "."
+uuid = "98473e3c-f6c7-482c-9f3f-bc732f1355ab"
+version = "1.0.0-DEV"
