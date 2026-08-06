@@ -402,9 +402,9 @@ version = "1.16.0"
 
 [[deps.DifferentialEquations]]
 deps = ["OrdinaryDiffEq", "Reexport", "SciMLBase"]
-git-tree-sha1 = "076a5e999d38ffbba860d4c1ba49828855b65c14"
+git-tree-sha1 = "dabd1db6bc45efd36ece09c3ddc949e6ded227a5"
 uuid = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
-version = "8.0.0"
+version = "8.0.3"
 
 [[deps.DifferentiationInterface]]
 deps = ["ADTypes", "LinearAlgebra"]
@@ -1445,7 +1445,7 @@ uuid = "efcefdf7-47ab-520b-bdef-62a2eaa19f15"
 version = "10.44.0+1"
 
 [[deps.PGA]]
-deps = ["DifferentialEquations", "Grassmann", "Plots", "Pluto"]
+deps = ["DifferentialEquations", "Grassmann", "Plots", "Pluto", "Revise"]
 path = "."
 uuid = "98473e3c-f6c7-482c-9f3f-bc732f1355ab"
 version = "1.0.0-DEV"
